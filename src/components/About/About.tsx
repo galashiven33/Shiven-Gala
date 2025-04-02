@@ -11,10 +11,9 @@ const aboutData: AboutData = {
   info: (
     <>
       <p>
-        Hello there, my name is Will, and I'm originally from Manhattan,
-        although I have lived in a few other cities, my family has found our way
-        back there yet again! Currently, I'm a senior and aspiring software
-        engineer studying at Boston University.
+        Hello there, my name is Shiven, and I'm originally from Mumbai,
+        back there yet again! Currently, I'm a first-generation college student,
+        freshman studying at Boston University.
       </p>
       <p>
         I absolutely love learning new skills and challenging myself in
